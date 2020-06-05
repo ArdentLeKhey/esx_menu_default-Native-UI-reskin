@@ -5,7 +5,7 @@ This is my reskin of esx_menu_default, you can find original file here : [origin
 
 Here a video presentation :
 
-[![Video](/miniaturemenu.PNG)](https://youtu.be/QcXjGRKm5B0)
+[![Video](/maxresdefault (1).jpg)](https://youtu.be/QcXjGRKm5B0)
   
 ## Installation
 - Replace your `esx_menu_default` folder by this one
