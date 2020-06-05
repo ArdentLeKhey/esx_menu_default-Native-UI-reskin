@@ -12,7 +12,7 @@ Here a video presentation :
 
 ## Change the server name
 - Go to `\esx_menu_default\html\js` and open `app.js`
-- Replace at line 4, `Utopia RP` by your server name
+- Replace at line 4, `"Your Server Name"` by your server name
 
 ![Change Server Name](/servername.PNG)
 
